@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 💬 Ask me about **Software Engineer**
-
 - 📫 How to reach me **chetan.purii567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
